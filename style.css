@@ -1,0 +1,10 @@
+body {
+ background-color: black;
+}
+
+#footer {
+margin-bottom: -10%;
+background-color: black ;
+text-align: right ;
+color: yellow;
+}
